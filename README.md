@@ -12,6 +12,10 @@
   <a href="https://twitter.com/markisspicy">
     <img src="https://github.com/MarkShinozaki/MarkShinozaki/blob/main/twitter%20(1).png" alt="Twitter Logo" style="height: 20px; width: auto;"/>
   </a>
+
+  <a href="https://twitter.com/markshinozaki.jp">
+    <img src="https://github.com/MarkShinozaki/MarkShinozaki/blob/main/instagram%20(1).png" alt="Instagram Logo" style="height: 20px; width: auto;"/>
+  </a>
   
   <!-- Add more badges as needed -->
 </div>
