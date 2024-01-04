@@ -1,15 +1,24 @@
+<h1 align="center" >
+  Hi, My Name is Mark Shinozaki 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div id="profile" align="center">
   
   <img src="https://github.com/MarkShinozaki/MarkShinozaki/blob/main/freelancer.png" width="300"/>
+  
 </div>
 
-- :iphone: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :iphone: I am currently a B.S. Computer Science Student at Washington State University in my last semester.
 
-- :computer: Exploring Technical Content Writing.
+- :computer: My biggest interests are in Cloud Engineering and DBMS.
 
-- :japan: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :beginner: Other interests include, Fullstack Dev, IOS app Dev, CyberSecurity and AI. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mark-Shinozaki?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-shinozaki-%E7%AF%A0%E5%B4%8E-372699b7/)
+- :japan: I'm orginally from New York City but now live between Rosslyn, VA & Pullman, WA.
+
+- :aquarius: Being in Tech with ADHD is a long and complicated road, one passion of mine in my github repos is to provide any help and assistance to WSU students and CS students with projects and assignments that I struggled with, most of time its easy to feel alone in the program so I try to make any resources I can available to be helpful to my fellow classmates. 
+
 
 <div id="badges" align="center">
   <!-- LinkedIn Logo -->
@@ -27,22 +36,25 @@
   <a href="mailto:m.strong-shinozaki.wsu.edu" style="margin-right: 60px;">
     <img src="https://github.com/MarkShinozaki/MarkShinozaki/blob/main/email.png" alt="Email Icon" style="height: 30px; width: auto;"/> <!-- Replace with your email icon path -->
   </a>
+
+  <div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarkShinozaki&style=flat-square&color=blue" alt=""/>
+  </div>
+
+ 
 </div>
 
 ---
 
 <div id="header" align="center">
-  <!-- GIF -->
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="350" height="300"/>
+  <img src="https://media.giphy.com/media/hUhARUMJB4OsRMXJ6l/giphy.gif" width="300" height="300"/>
 </div>
 
 ---
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarkShinozaki&style=flat-square&color=blue" alt=""/>
-</div>
 
----
 
 ### :fire: My Stats :
 <div id="stats" align="center">
