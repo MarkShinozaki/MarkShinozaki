@@ -1,5 +1,5 @@
 <h1 align="center" >
-  Hi, My Name is Mark Shinozaki 
+  Hi, My name is Mark Shinozaki 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
