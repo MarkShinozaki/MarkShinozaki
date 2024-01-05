@@ -47,7 +47,14 @@
 </div>
 
 ---
+# Links & Descriptions of Projects (Updated: 1/4/24): 
 
+## COMING SOON
+
+
+
+
+--- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="300" height="300"/>
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="350" height="300"/>
