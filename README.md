@@ -17,7 +17,7 @@
 
 :japan: I'm orginally from New York City but now live between Rosslyn, VA & Pullman, WA.
 
-:aquarius: Being in Tech with ADHD is a long and complicated road, one passion of mine in my github repos is to provide any help and assistance to WSU students and CS students with projects and assignments that I struggled with, most of time its easy to feel alone in the program so I try to make any resources I can available to be helpful to my fellow classmates. 
+:aquarius: Trying to help and provide assistance to other developers and students. 
 
 
 <div id="badges" align="center">
