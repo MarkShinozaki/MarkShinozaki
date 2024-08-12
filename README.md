@@ -9,7 +9,7 @@
   
 </div>
 
-:iphone: I am currently a B.S. Computer Science Student at Washington State University in my last semester.
+:iphone: I recently graduated from Washington State University with my B.S. in Computer Science & Minor in Mathematics 
 
 :computer: My biggest interests are in Cloud Engineering and DBMS.
 
