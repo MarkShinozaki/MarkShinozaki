@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="profile" align="center">
-  
-  <img src="https://github.com/MarkShinozaki/MarkShinozaki/blob/main/freelancer.png" width="300"/>
-  
-</div>
 
 :iphone: I recently graduated from Washington State University with my B.S. in Computer Science & Minor in Mathematics 
 
@@ -46,10 +41,7 @@
   </a>
 </div>
 
----
-# Links & Descriptions of Projects (Updated: 1/4/24): 
 
-## COMING SOON
 
 
 
