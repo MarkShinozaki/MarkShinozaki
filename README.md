@@ -14,7 +14,7 @@
 
 :aquarius: Trying to help and provide assistance to other developers and students. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkShinozaki&layout=donut)](https://github.com/MarkShinozaki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkShinozaki)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
   <!-- LinkedIn Logo -->
@@ -36,10 +36,7 @@
   <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=MarkShinozaki&style=flat-square&color=blue" alt=""/>
   </div>
-    Buy Me A Coffee
-    <a href="https://www.buymeacoffee.com/markshin">
-    <img src="https://github.com/MarkShinozaki/MarkShinozaki/blob/main/coffee-cup.png" alt="chain Logo" style="height: 30px; width: auto;"/>
-  </a>
+
 </div>
 
 
