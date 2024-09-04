@@ -14,6 +14,7 @@
 
 :aquarius: Trying to help and provide assistance to other developers and students. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkShinozaki&layout=donut)](https://github.com/MarkShinozaki/github-readme-stats)
 
 <div id="badges" align="center">
   <!-- LinkedIn Logo -->
