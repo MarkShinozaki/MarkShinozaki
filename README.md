@@ -10,9 +10,9 @@
 
 :beginner: Other interests include, Fullstack Dev, IOS app Dev, CyberSecurity and AI. 
 
-:japan: I'm orginally from New York City but now live between Rosslyn, VA & Pullman, WA.
+:japan: I'm orginally from New York City but now live in Rosslyn, VA.
 
-:aquarius: Trying to help and provide assistance to other developers and students. 
+:aquarius: Trying to help and provide assistance to other developers and students. If you help with anything you see in one of my repos please let me know! 
 
 
 
