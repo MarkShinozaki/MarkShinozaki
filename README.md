@@ -12,7 +12,7 @@
 
 :japan: I'm orginally from New York City but now live in Rosslyn, VA.
 
-:aquarius: Trying to help and provide assistance to other developers and students. If you help with anything you see in one of my repos please let me know! 
+:aquarius: Trying to help and provide assistance to other developers and students. If you're working on something sick, lets chat!
 
 
 
