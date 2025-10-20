@@ -20,7 +20,7 @@
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=44478527" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=44478527&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=44478527&image_size=auto&color_scheme=light" width="721" height="auto">
+    <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=44478527&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
 
