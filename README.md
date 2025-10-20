@@ -15,6 +15,7 @@
 :aquarius: Trying to help and provide assistance to other developers and students. If you're working on something sick, lets chat!
 
 
+[![Dashboard stats of @MarkShinozaki](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=44478527&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=44478527)
 
 
 
