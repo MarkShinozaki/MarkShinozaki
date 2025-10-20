@@ -14,7 +14,7 @@
 - ☁️ Passionate about **Cloud Engineering** and **AI Applications**
 - 💡 Exploring **Fullstack Development**, **iOS Apps**, **Cybersecurity**, and **AI**
 - 🗽 Originally from **New York City**, now based in **Rosslyn, VA**
-- 🌊 Fun fact: I love connecting with devs — if you’re building something cool, let’s collaborate!
+
 
 ---
 
