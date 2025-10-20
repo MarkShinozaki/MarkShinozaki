@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 - 🎓 Graduated from **Washington State University** with a **B.S. in Computer Science** & a **Minor in Mathematics**
-- ☁️ Passionate about **Cloud Engineering** and **Database Management Systems (DBMS)**
+- ☁️ Passionate about **Cloud Engineering** and **AI Applications**
 - 💡 Exploring **Fullstack Development**, **iOS Apps**, **Cybersecurity**, and **AI**
 - 🗽 Originally from **New York City**, now based in **Rosslyn, VA**
 - 🌊 Fun fact: I love connecting with devs — if you’re building something cool, let’s collaborate!
