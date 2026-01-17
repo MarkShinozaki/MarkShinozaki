@@ -41,20 +41,6 @@
 ![CosmosDB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
----
-
-### 📈 GitHub Insights
-
-
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=44478527" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=44478527&image_size=auto&color_scheme=dark" width="721">
-      <img src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=44478527&image_size=auto&color_scheme=light" width="721">
-    </picture>
-  </a>
-</div>
-
 
 
 ---
