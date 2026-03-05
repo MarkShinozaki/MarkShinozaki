@@ -10,10 +10,10 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Graduated from **Washington State University** with a **B.S. in Computer Science** & a **Minor in Mathematics**
-- ☁️ Passionate about **Cloud Engineering** and **AI Applications**
-- 💡 Exploring **Fullstack Development**, **iOS Apps**, **Cybersecurity**, and **AI**
-- 🗽 Originally from **New York City**, now based in **Rosslyn, VA**
+
+- ☁️ **Cloud Engineering** and **AI Applications**
+- 💡 **Fullstack Development**, **iOS Apps**, and **AI**
+- 🗽 From **New York City**, now based in **Arlington, VA**
 
 
 ---
