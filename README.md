@@ -18,9 +18,21 @@
 
 ---
 
+| Projects | |
+|--------|------|
+| **Caruki** | AI-powered automotive search platform with agents and vehicle intelligence |
+| **Tech:** Next.js • Azure  | [🔗 Caruki Waitlist](https://waitlist.caruki.com) |
+| **Dately.ai ** | Date Planning Service for people living in the DMV |
+| **Tech:** React • Node.js | [🔗 Dately.Ai](https://Dately.ai) |
+| **Negging.ai** | Claude anwsers any question and Grok roasts it |
+| **Tech:** Next.js • Grok/Claude | [🔗 Negging.ai](https://negging.ai) |
+| **Food Bank System** | Inventory and service tracking system for a food bank |
+| **Tech:** React • Node.js | [🔗 Cashmere Food Bank Org](https://dashboard.cashmerefoodbank.org/login) |
+---
+
 ### ⚙️ Tech Stack
 
-#### 💻 Languages  
+####  Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -29,11 +41,11 @@
 
 
 
-#### ☁️ Cloud & DevOps  
+####  Cloud & DevOps  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-121212?style=flat&logo=railway&logoColor=white)
 
-#### 🧩 Frameworks & Tools  
+####  Frameworks & Tools  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
@@ -45,7 +57,7 @@
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/mark-shinozaki-372699b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
