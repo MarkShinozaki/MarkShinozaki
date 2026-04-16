@@ -21,13 +21,13 @@
 | Projects | |
 |--------|------|
 | **Caruki** | AI-powered automotive search platform with agents and vehicle intelligence |
-| **Tech:** Next.js • Azure  | [🔗 Caruki Waitlist](https://waitlist.caruki.com) |
+| **Tech:** Azure  | [🔗 Caruki Waitlist](https://waitlist.caruki.com) |
 | **Dately.ai ** | Date Planning Service for people living in the DMV |
-| **Tech:** React • Node.js | [🔗 Dately.Ai](https://Dately.ai) |
+| **Tech:**  | [🔗 Dately.Ai](https://Dately.ai) |
 | **Negging.ai** | Claude anwsers any question and Grok roasts it |
 | **Tech:** Next.js • Grok/Claude | [🔗 Negging.ai](https://negging.ai) |
 | **Food Bank System** | Inventory and service tracking system for a food bank |
-| **Tech:** React • Node.js | [🔗 Cashmere Food Bank Org](https://dashboard.cashmerefoodbank.org/login) |
+| **Tech:**  | [🔗 Cashmere Food Bank Org](https://dashboard.cashmerefoodbank.org/login) |
 ---
 
 ### ⚙️ Tech Stack
